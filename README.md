@@ -4,6 +4,11 @@
 ### Project Motivation:
 This MSc project, titled "Bagging-Based Hybrid Time Series Models for Forecasting Indian Economic Indicators," is fueled by the imperative to enhance the accuracy of forecasting for economic indicators in India. As data grows and forecasting challenges become more intricate, the study aims to go beyond existing methodologies. Specifically, it focuses on comparing the performance of a newly proposed bagging-based hybrid time series model with established hybrid models. The motivation is driven by the prospect of contributing to advancements in the field and addressing current limitations.
 
+ ## Project Files
+Project Presentation : https://docs.google.com/presentation/d/1EPfM_eLuNC0STGLbWU7ZNqLf47A2D4n_/edit?usp=sharing&ouid=104970154317054426867&rtpof=true&sd=true
+
+All Accuracy Measures obtained : https://docs.google.com/spreadsheets/d/192lPJmeORTU02vYC_3fic4HoP8hO3lMC/edit?usp=sharing&ouid=104970154317054426867&rtpof=true&sd=true
+
 ### Introduction and Background:
 Time series analysis plays a pivotal role in various fields, with its significance expanding as the volume of time-oriented data grows exponentially. This project focuses on forecasting Indian economic indicators using a blend of statistical and machine learning techniques. Economic indicators serve as the time series dataset, and forecasting them provides valuable insights for decision-making in areas such as finance, policy, and planning.
 ### Data Source:
